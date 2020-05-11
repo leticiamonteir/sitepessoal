@@ -1,0 +1,39 @@
+body {
+    background-image: url('https://i.pinimg.com/originals/9c/8a/f6/9c8af6e6ff731a668f6fbc290d56f7b0.jpg');
+    background-size: auto 150vh; 
+    font-family: Verdana;
+    height: 100vh;
+  }
+  
+  .menu {
+    background-color: none;
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .menu li {
+    list-style: none;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #702a6c;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .site-subtitle,
+  .site-title {
+    text-align: center;
+    color: #990192;
+  }
+  
+  .site-subtitle {
+    font-style: italic;
+  }
+  
